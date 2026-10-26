@@ -48,6 +48,25 @@ Aus dem eigenen Schulbuch werden Karteikarten, und geübt wird Stufe für Stufe 
 - [Elina Go! auf Android](https://elina.one/de/vokabeltrainer-android/): Elina Go! für Android-Handy und -Tablet schon jetzt testen: kostenlos, in drei Schritten bei Google Play – ohne Werbung.
 - [Elina Go! – Fakten auf einen Blick](https://elina.one/de/fakten/): Alles Feste zu Elina Go! an einer Stelle: was die App ist, was sie kostet, welche Daten sie nutzt, wo sie läuft und wer sie macht.
 
+## In your language
+
+- **[العربية](https://elina.one/ar/)** — مدرّب مفردات وقواعد للأطفال.
+- **[Dansk](https://elina.one/da/)** — En gloses- og grammatiktræner for børn.
+- **[Deutsch](https://elina.one/de/)** — Ein Vokabel- und Grammatiktrainer für Kinder.
+- **[English](https://elina.one/en/)** — A vocabulary and grammar trainer for children.
+- **[Español](https://elina.one/es/)** — Un entrenador de vocabulario y gramática para niños.
+- **[Français](https://elina.one/fr/)** — Un entraîneur de vocabulaire et de grammaire pour les enfants.
+- **[Italiano](https://elina.one/it/)** — Un allenatore di vocaboli e grammatica per bambini.
+- **[Latviešu](https://elina.one/lv/)** — Vārdu un gramatikas trenažieris bērniem.
+- **[Nederlands](https://elina.one/nl/)** — Een woordjes- en grammaticatrainer voor kinderen.
+- **[Polski](https://elina.one/pl/)** — Trener słówek i gramatyki dla dzieci.
+- **[Português](https://elina.one/pt/)** — Um treino de vocabulário e gramática para crianças.
+- **[Русский](https://elina.one/ru/)** — Тренажёр слов и грамматики для детей.
+- **[Türkçe](https://elina.one/tr/)** — Çocuklar için kelime ve dilbilgisi çalıştırıcısı.
+- **[Українська](https://elina.one/uk/)** — Тренажер слів і граматики для дітей.
+- **[Tiếng Việt](https://elina.one/vi/)** — Ứng dụng luyện từ vựng và ngữ pháp cho trẻ em.
+- **[中文](https://elina.one/zh/)** — 给孩子的单词和语法练习应用。
+
 ---
 
 Elina Go! is made by Nufrus. This repository holds the app's public description; the source code is not public.
