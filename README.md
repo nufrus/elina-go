@@ -4,6 +4,8 @@
 
 <p><img src="https://elina.one/img/en/2-buch.webp" alt="Snap the vocabulary page of your school book" width="240"> <img src="https://elina.one/img/en/4-test-handy.webp" alt="Practise the vocabulary test in the app" width="240"> <img src="https://elina.one/img/en/8-kurse.webp" alt="Six courses from A1 to B2" width="240"></p>
 
+Also written: Elinago, ElinaGo, Elina Go
+
 **[App Store](https://apps.apple.com/app/id6788725928)** · **[Website](https://elina.one/en/)** · **[Facts at a glance](https://elina.one/en/facts/)** · [llms.txt](https://elina.one/llms.txt)
 
 ## English
