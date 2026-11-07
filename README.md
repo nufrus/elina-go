@@ -15,7 +15,7 @@ A vocabulary and grammar trainer for children. English, French, Spanish, Italian
 You pick your level, and each one has its own learning worlds: at A1 “Me & family” and “School & free time”, at B2 “People & the mind” and “Economy & science”. So the course grows with you – from primary school to the exam.
 English comes British and American: you choose what your school teaches, spelling and pronunciation follow your choice, and the other form always stands beside it, like colour and color.
 
-6 languages up to B2 – a whole course. Free until December 31, 2026, and join by then to keep everything free for good.
+6 languages up to B2 – a whole course. Free.
 
 It creates no account and asks for no sign-in. It sends us nothing of its own accord — only when you report something does your message go to us, and then anonymously. Learning progress stays on the device; a backup goes solely into the user’s own cloud, that is iCloud Drive or Google Drive. There is no advertising.
 
@@ -50,7 +50,7 @@ Ein Vokabel- und Grammatiktrainer für Kinder. Englisch, Französisch, Spanisch,
 Du wählst deine Stufe, und jede hat eigene Lernwelten: auf A1 „Ich & Familie“ und „Schule & Freizeit“, auf B2 „Mensch & Psyche“ und „Wirtschaft & Wissenschaft“. So wächst der Kurs mit dir – von der Grundschule bis zur Prüfung.
 Englisch gibt es britisch und amerikanisch: Du wählst, was deine Schule lehrt, Schreibweise und Aussprache folgen deiner Wahl, und die andere Form steht immer daneben, etwa colour und color.
 
-6 Sprachen bis B2 – ein ganzer Kurs. Kostenlos bis 31.12.2026, und wer bis dahin dabei ist, behält alles dauerhaft kostenlos.
+6 Sprachen bis B2 – ein ganzer Kurs. Kostenlos.
 
 Sie legt kein Konto an und verlangt keine Anmeldung. Von selbst sendet sie nichts an uns – nur wenn du etwas meldest, geht deine Nachricht an uns, und zwar anonym. Der Lernfortschritt bleibt auf dem Gerät; eine Sicherung geht ausschließlich in die eigene Cloud des Nutzers, also iCloud Drive oder Google Drive. Es gibt keine Werbung.
 
