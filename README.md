@@ -44,7 +44,7 @@ Elina Go! joins real learning with a game. Your own school book becomes flashcar
 - [Why Elina Go! exists](https://elina.one/en/why-elina-go/): How Elina Go! began: an app for Elina, her cuddly frog Fred as its mascot, advice from an early childhood educator – and the goal behind it all.
 - [Learning vocabulary: tips that really help kids](https://elina.one/en/vocabulary-learning-tips/): How children remember vocabulary more easily: practise a little every day, repeat in time, quiz yourself – and how Elina Go! helps with each.
 - [Learning vocabulary when English starts at school](https://elina.one/en/vocabulary-first-year-of-english/): The first vocabulary tests are coming: how your child learns the words from the school book in small steps – no ads, no account.
-- [Irregular verbs, comparison and plurals – right with the vocabulary](https://elina.one/en/irregular-verbs-english/): Learn irregular verbs, comparison and plurals right with the vocabulary: preview, a question on the card, flashcard box and test.
+- [Learn a word – and its irregular forms come right with it](https://elina.one/en/irregular-verbs-english/): Learn irregular verbs, comparison and plurals right with the vocabulary: preview, a question on the card, flashcard box and test.
 
 ## Deutsch
 
@@ -82,7 +82,7 @@ Elina Go! verbindet echtes Lernen mit einem Spiel. Aus dem eigenen Schulbuch wer
 - [Warum es Elina Go! gibt](https://elina.one/de/warum-elina-go/): Wie Elina Go! entstand: eine App für Elina, ihr Kuscheltier Fred als Maskottchen, beraten von einer Kindheitspädagogin – und das Ziel dahinter.
 - [Vokabeln lernen: Tipps, die Kindern wirklich helfen](https://elina.one/de/vokabeln-lernen-tipps/): Wie Kinder Vokabeln leichter behalten: kurz und oft üben, rechtzeitig wiederholen, sich abfragen – und wie Elina Go! dabei hilft.
 - [Vokabeln lernen in der 5. Klasse](https://elina.one/de/vokabeln-lernen-5-klasse/): Die ersten Vokabeltests in der 5. Klasse: So lernt dein Kind die Wörter aus dem Schulbuch in kleinen Schritten – ohne Werbung, ohne Konto.
-- [Unregelmäßige Verben, Steigerung und Plural – gleich bei den Vokabeln](https://elina.one/de/unregelmaessige-verben-englisch/): Unregelmäßige Verben, Steigerung und Plural gleich bei den Vokabeln mitlernen: Vorschau, Nachfrage auf der Karte, Karteikasten und Test.
+- [Vokabeln lernen – und die unregelmäßigen Formen gleich mit](https://elina.one/de/unregelmaessige-verben-englisch/): Unregelmäßige Verben, Steigerung und Plural gleich bei den Vokabeln mitlernen: Vorschau, Nachfrage auf der Karte, Karteikasten und Test.
 
 ## In your language
 
