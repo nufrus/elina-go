@@ -42,6 +42,8 @@ Elina Go! joins real learning with a game. Your own school book becomes flashcar
 - [Fred the frog: the mascot who learns vocabulary with you](https://elina.one/en/vocabulary-app-with-a-frog/): Fred the frog learns with you: every right word saves fireflies for his pond, his costumes and his crown. Free, with no ads.
 - [Elina Go! – Facts at a Glance](https://elina.one/en/facts/): Everything fixed about Elina Go! in one place: what the app is, what it costs, what data it uses, where it runs and who makes it.
 - [Why Elina Go! exists](https://elina.one/en/why-elina-go/): How Elina Go! began: an app for Elina, her cuddly frog Fred as its mascot, advice from an early childhood educator – and the goal behind it all.
+- [Learning vocabulary: tips that really help kids](https://elina.one/en/vocabulary-learning-tips/): How children remember vocabulary more easily: practise a little every day, repeat in time, quiz yourself – and how Elina Go! helps with each.
+- [Learning vocabulary when English starts at school](https://elina.one/en/vocabulary-first-year-of-english/): The first vocabulary tests are coming: how your child learns the words from the school book in small steps – no ads, no account.
 
 ## Deutsch
 
@@ -77,6 +79,8 @@ Elina Go! verbindet echtes Lernen mit einem Spiel. Aus dem eigenen Schulbuch wer
 - [Fred, der Frosch: das Maskottchen, das mit dir Vokabeln lernt](https://elina.one/de/vokabel-app-mit-frosch/): Fred, der Frosch, lernt mit: Jedes richtige Wort rettet Glühwürmchen für seinen Teich, seine Kostüme und seine Krone. Kostenlos, ohne Werbung.
 - [Elina Go! – Fakten auf einen Blick](https://elina.one/de/fakten/): Alles Feste zu Elina Go! an einer Stelle: was die App ist, was sie kostet, welche Daten sie nutzt, wo sie läuft und wer sie macht.
 - [Warum es Elina Go! gibt](https://elina.one/de/warum-elina-go/): Wie Elina Go! entstand: eine App für Elina, ihr Kuscheltier Fred als Maskottchen, beraten von einer Kindheitspädagogin – und das Ziel dahinter.
+- [Vokabeln lernen: Tipps, die Kindern wirklich helfen](https://elina.one/de/vokabeln-lernen-tipps/): Wie Kinder Vokabeln leichter behalten: kurz und oft üben, rechtzeitig wiederholen, sich abfragen – und wie Elina Go! dabei hilft.
+- [Vokabeln lernen in der 5. Klasse](https://elina.one/de/vokabeln-lernen-5-klasse/): Die ersten Vokabeltests in der 5. Klasse: So lernt dein Kind die Wörter aus dem Schulbuch in kleinen Schritten – ohne Werbung, ohne Konto.
 
 ## In your language
 
